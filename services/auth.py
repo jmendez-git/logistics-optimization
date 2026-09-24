@@ -1,4 +1,3 @@
-# services/auth.py
 import urllib.parse
 import requests
 import streamlit as st
