@@ -60,3 +60,15 @@ PROYECTO_P1/
 
 5. streamlit run app.py
 
+
+## References
+- El Loco de los Datos. (2026, April 23). Cómo crear un Login Seguro con 2FA en Python y Streamlit paso a paso 🔐 [Video]. YouTube. https://www.youtube.com/watch?v=NYkHibLfLuE
+- El Loco de los Datos. (2025, January 7). Control de Acceso por usuario y roles con Streamlit - #streamlit #python [Video]. YouTube. https://www.youtube.com/watch?v=Wnk-E2z2ZhU
+- El Loco de los Datos. (2024, July 2). Añade Control de Usuario y Clave en tus Aplicaciones Streamlit y protegelas con acceso por Login [Video]. YouTube. https://www.youtube.com/watch?v=OVH-DakBBgY
+- Streamlit Docs. (n.d.). https://docs.streamlit.io/
+- Cómo usar OAuth 2.0 para acceder a las API de Google. (n.d.). Google for Developers. https://developers.google.com/identity/protocols/oauth2?hl=es-419
+- pandas documentation — pandas 3.0.6 documentation. (n.d.). https://pandas.pydata.org/docs/index.html
+- Welcome to GeoPy’s documentation! — GeoPy 2.5.0 documentation. (n.d.). https://geopy.readthedocs.io/en/stable/
+- Morales, A. (2021, November 24). Cómo realizar geocodificación con GeoPy. MappingGIS. https://mappinggis.com/2018/11/geocodificacion-con-geopy/
+ReportLab Docs. (n.d.). https://docs.reportlab.com/
+
